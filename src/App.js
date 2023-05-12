@@ -11,6 +11,7 @@ import PrivateRoute from './components/PrivateRoute';
 import Eclass from './pages/Eclass';
 import TeamChat from './pages/TeamChat';
 
+
 function App() {
     return (
         <AuthProvider>
