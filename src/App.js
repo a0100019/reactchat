@@ -12,6 +12,7 @@ import Eclass from './pages/Eclass';
 import TeamChat from './pages/TeamChat';
 import EclassHeader from './components/EclassHeader';
 
+
 function App() {
     return (
         <AuthProvider>
